@@ -17,7 +17,7 @@ namespace BondsExport
             }
             else
             {
-                BE be = new BE(@"D:\测试\Test.smwu");
+                BE be = new BE(@"D:\GIS数据\测试模型数据集\ws.smwu");
             }
         }
     }
